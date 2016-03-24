@@ -1,0 +1,17 @@
+{
+    "name": "inversemouse1.liu-xiao-guo",
+    "description": "description of inversemouse1",
+    "architecture": "@CLICK_ARCH@",
+    "title": "inversemouse1",
+    "hooks": {
+        "inversemouse1": {
+            "apparmor": "inversemouse1/inversemouse1.apparmor",
+            "desktop":  "inversemouse1/inversemouse1.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+

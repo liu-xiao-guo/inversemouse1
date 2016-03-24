@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=inversemouse1
+Exec=inversemouse1
+Icon=inversemouse1/inversemouse1.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
